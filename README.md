@@ -1,6 +1,6 @@
 # Hi there, I'm Ehsan Rezaei! 👋
 
-🚀 **ReactJS & React Native Developer** | 💻 **Frontend Enthusiast** | 🌐 **Problem Solver**
+🚀 **Full-Stack Developer | React, React Native & Node.js** | 🌐 **Problem Solver**
 
 ---
 
@@ -14,10 +14,10 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript
-- **Frontend**: ReactJS, React Native, Redux, Tailwind CSS, Material-UI
+- **Frontend**: ReactJS, React Native, Redux, Vue, Vuex, Tailwind CSS, Material-UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, SQLite, Redis
-- **Tools & Other Skills**: Webpack, Vite, WebSockets, Docker, GraphQL, RESTful APIs, FCM, Agile/Scrum
+- **Tools & Other Skills**: GraphQL, RESTful APIs, Webpack, Vite, WebSockets, Docker, FCM, Agile/Scrum
 
 ---
 
